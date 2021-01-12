@@ -1,5 +1,3 @@
-from privex.helpers import empty
-
 from privex.jsonrpc.JsonRPC import JsonRPC
 from decimal import Decimal
 from typing import Union, List, Dict
